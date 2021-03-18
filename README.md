@@ -9,23 +9,22 @@
 
 ```
 
-Loading :gear: ... check back again in some time
-
 <!--
 **APratham/APratham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
+## About me
+- 🔭 Currently working on Cloud Certifications
+- 🌱 Learning AWS
+- 👯 I'm looking to collaborate on amazing projects as long as they are based on cloud computing
+- 💬 Reach out to me: https://github.com/APratham/APratham/discussions/1
+- 📫 antariksh.pratham@pccoepune.org
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Marvel's first family, the Fantastic Four, is the first superhero family of all time
+- 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
+
+
+## I'm currently jamming to
 <a href="https://spotify-now-playing-iota-umber.vercel.app/now-playing?open">
     <img src="https://spotify-now-playing-iota-umber.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
