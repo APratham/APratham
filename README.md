@@ -28,8 +28,8 @@
 
 ## I'm currently jamming to
 <a href="https://spotify-now-playing-iota-umber.vercel.app/now-playing?open">
-    <img src="https://spotify-now-playing-iota-umber.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+    <img src="https://spotify-now-playing-iota-umber.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
 
 ## Some of my top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APratham&&exclude_repo=now-playing-profile,natemoo-re&langs_count=8,bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APratham&&exclude_repo=now-playing-profile,natemoo-re&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
