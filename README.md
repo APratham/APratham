@@ -29,4 +29,4 @@
     <img src="https://spotify-now-playing-iota-umber.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APratham)](https://github.com/anuraghazra/github-readme-stats&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APratham)](https://github.com/anuraghazra/github-readme-stats&bg_color=e96443&title_color=fff&text_color=fff)
