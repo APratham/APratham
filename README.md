@@ -35,6 +35,20 @@
 <p align="center">
   <div align="center">
     <code><img height="40" src="./images/c.svg"></code>
+    <code><img height="40" src="./images/cplusplus.svg"></code>
+    <code><img height="40" src="./images/html5.svg"></code>
+    <code><img height="40" src="./images/css3.svg"></code>
+    <code><img height="40" src="./images/javascript.svg"></code>
+    <code><img height="40" src="./images/python.svg"></code>
+    <code><img height="40" src="./images/jupyter.svg"></code>
+    <code><img height="40" src="./images/docker.svg"></code>
+    <code><img height="40" src="./images/kubernetes.svg"></code>
+    <code><img height="40" src="./images/heroku.svg"></code>
+    <code><img height="40" src="./images/firebase.svg"></code>
+    <code><img height="40" src="./images/nodejs.svg"></code>
+    <code><img height="40" src="./images/npm.svg"></code>
+    <code><img height="40" src="./images/nginx.svg"></code>
+    <code><img height="40" src="./images/yarn.svg"></code>
   </div>
 </p>
 
