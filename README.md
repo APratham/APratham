@@ -58,13 +58,8 @@
 ## Cloud Platforms
 ![Google Cloud](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg)
 
-Google Cloud events
-Google Cloud seminars
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-AWS User Group
-AWS ML Project
 
 ## Daily fact
 
