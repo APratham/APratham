@@ -64,11 +64,9 @@ Google Cloud seminars
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
 AWS User Group
-AWS ML Project 
+AWS ML Project
 
 ## Daily fact
 
-<a href='https://github.com/marketplace/actions/daily-marvel-fact-readme'>
   <!--STARTS_HERE_QUOTE_README-->
   <!--ENDS_HERE_QUOTE_README-->
-</a>
