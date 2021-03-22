@@ -1,0 +1,17 @@
+name: Update Quote Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 2 UTC everyday
+    - cron: "0 2 * * *"
+
+jobs:
+  update-readme:
+    name: Update Quote README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: APratham/funfact-daily-readme@latest
+        with:
+          COMMIT_MESSAGE: Added today's fact       # default - Update with quote-readme
+          OPTION: fact # default - both, can be one of (quote, funfact, both), if 'both' then will display either a quote or a fact
