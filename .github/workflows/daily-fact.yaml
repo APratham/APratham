@@ -15,4 +15,4 @@ jobs:
       - uses: siddharth2016/quote-readme@main
         with:
           COMMIT_MESSAGE: Added today's fact       # default - Update with quote-readme
-          OPTION: fact # default - both, can be one of (quote, funfact, both), if 'both' then will display either a quote or a fact
+          OPTION: funfact # default - both, can be one of (quote, funfact, both), if 'both' then will display either a quote or a fact
