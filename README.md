@@ -59,3 +59,10 @@
 ![Google Cloud](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg)
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
+
+## Daily fact
+
+<a href='https://github.com/marketplace/actions/daily-marvel-fact-readme'>
+  <!--STARTS_HERE_QUOTE_README-->
+  <!--ENDS_HERE_QUOTE_README-->
+</a>
