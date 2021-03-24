@@ -2,19 +2,15 @@
 
 ### Hi there 👋
 
-```
-                             __
-   ____     ____          __/ /_ __        __
-  / _  \   / __ \________/_   _// /_  ____/ /.-..-.
- / __  /  / ____/ __/ _ / /  /_/ __ \/ _ / .-. /, /
-/_/ /_/../_/   /_/ /___/_/____/_/ /_/___/_/  // //
 
-```
 
-<!--
-**APratham/APratham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+                                 __
+       ____     ____          __/ /_ __        __
+      / _  \   / __ \________/_   _// /_  ____/ /.-..-.
+     / __  /  / ____/ __/ _ / /  /_/ __ \/ _ / .-. /, /
+    /_/ /_/../_/   /_/ /___/_/____/_/ /_/___/_/  // //
 
+    
 ## About me
 - 🔭 Currently working on Cloud Certifications
 - 🌱 Learning AWS
@@ -22,41 +18,45 @@
 - 💬 Reach out to me: https://github.com/APratham/APratham/discussions/1
 - 📫 antariksh.pratham@pccoepune.org
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Marvel's first family, the Fantastic Four, is the first superhero family of all time
+
+
+
+- ⚡ Fun fact: Agent Coulson was not supposed to reappear past the first Iron Man film
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
-
 ## I'm currently jamming to
-<a href="https://spotify-now-playing-iota-umber.vercel.app/now-playing?open">
-    <img src="https://spotify-now-playing-iota-umber.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
 
+<a href="https://spotify-now-playing-iota-umber.vercel.app/now-playing?open"><img src="https://spotify-now-playing-iota-umber.vercel.app/now-playing" width="256" height="64" alt="Now Playing"></a>
 ## Languages and Tools
+
 <p align="center">
-  <div align="center">
-    <code><img height="40" src="./images/c.svg"></code>
-    <code><img height="40" src="./images/cplusplus.svg"></code>
-    <code><img height="40" src="./images/html5.svg"></code>
-    <code><img height="40" src="./images/css3.svg"></code>
-    <code><img height="40" src="./images/javascript.svg"></code>
-    <code><img height="40" src="./images/python.svg"></code>
-    <code><img height="40" src="./images/jupyter.svg"></code>
-    <code><img height="40" src="./images/docker.svg"></code>
-    <code><img height="40" src="./images/kubernetes.svg"></code>
-    <code><img height="40" src="./images/heroku.svg"></code>
-    <code><img height="40" src="./images/firebase.svg"></code>
-    <code><img height="40" src="./images/nodejs.svg"></code>
-    <code><img height="40" src="./images/npm.svg"></code>
-    <code><img height="40" src="./images/nginx.svg"></code>
-    <code><img height="40" src="./images/yarn.svg"></code>
-  </div>
-</p>
+    <div align="center">
+        <code><img height="40" src=".images/c.svg"></code>
+        <code><img height="40" src="./images/cplusplus.svg"></code>
+        <code><img height="40" src="./images/html5.svg"></code>
+        <code><img height="40" src="./images/css3.svg"></code>
+        <code><img height="40" src="./images/javascript.svg"></code>
+        <code><img height="40" src="./images/python.svg"></code>
+        <code><img height="40" src="./images/jupyter.svg"></code>
+        <code><img height="40" src="./images/docker.svg"></code>
+        <code><img height="40" src="./images/kubernetes.svg"></code>
+        <code><img height="40" src="./images/heroku.svg"></code>
+        <code><img height="40" src="./images/firebase.svg"></code>
+        <code><img height="40" src="./images/nodejs.svg"></code>
+        <code><img height="40" src="./images/npm.svg"></code>
+        <code><img height="40" src="./images/nginx.svg"></code>
+        <code><img height="40" src="./images/yarn.svg"></code>
+      </div>
+    </p>
 
 ## Some of my top languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APratham&&exclude_repo=now-playing-profile,natemoo-re&langs_count=3&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Cloud Platforms
+
 ![Google Cloud](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg)
 
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
+
+<sub>Last updated by magic on 24 Mar 2021.</sub>
