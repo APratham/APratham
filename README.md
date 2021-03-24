@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Agent Coulson was not supposed to reappear past the first Iron Man film
+- ⚡ Fun fact: There is a frog with the same powers as Thor
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
