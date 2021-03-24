@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: The Punisher once killed every Marvel superhero and villain including himself
+- ⚡ Fun fact: The famous Shawarma scene was shot after the premiere for The Avengers
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
