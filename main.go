@@ -55,7 +55,7 @@ func makeReadme(filename string) error {
     lan1 := "## Languages and Tools"
     lan2 := `<p align="center">
     <div align="center">
-        <code><img height="40" src=".images/c.svg"></code>
+        <code><img height="40" src="./images/c.svg"></code>
         <code><img height="40" src="./images/cplusplus.svg"></code>
         <code><img height="40" src="./images/html5.svg"></code>
         <code><img height="40" src="./images/css3.svg"></code>
