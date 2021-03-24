@@ -3,7 +3,9 @@ name: update
 on:
   push:
     branches:
-      - main
+      - master, main
+    schedule:
+      - cron: '0 11 * * *'
 
 jobs:
   build-and-deploy:
