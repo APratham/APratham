@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: There is a frog with the same powers as Thor
+- ⚡ Fun fact: The Punisher once killed every Marvel superhero and villain including himself
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -31,7 +31,7 @@
 
 <p align="center">
     <div align="center">
-        <code><img height="40" src=".images/c.svg"></code>
+        <code><img height="40" src="./images/c.svg"></code>
         <code><img height="40" src="./images/cplusplus.svg"></code>
         <code><img height="40" src="./images/html5.svg"></code>
         <code><img height="40" src="./images/css3.svg"></code>
