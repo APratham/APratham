@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Marvel was the first CBM to give an African American his own comic book
+- ⚡ Fun fact: The Mjolnir can destroy entire galaxies
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
