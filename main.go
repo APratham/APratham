@@ -74,12 +74,13 @@ func makeReadme(filename string) error {
     </p>`
     toplan1 := "## Some of my top languages"
     toplan2 := `[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APratham&&exclude_repo=now-playing-profile,natemoo-re&langs_count=3&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)`
+    toplan3 := "*NOTE: Top languages does not indicate my skill level in those languages. However, it does represent the languages for which I have written the most code. It is a feature of GitHub README from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*"
     cloud1 := "## Cloud Platforms"
     cloud2 := `![Google Cloud](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg)`
     cloud3 := `<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">`
   	updated := "<sub>Last updated by magic on " + date + ".</sub>"
-  	data1 := fmt.Sprintf("%s\n\n%s\n%s\n%s\n\n%s\n\n%s\n\n%s\n", social, title, hello, points, quote, spotify1, spotify2)
-    data2 := fmt.Sprintf("%s\n\n%s\n\n%s\n\n%s\n\n%s\n\n%s\n\n%s\n\n%s\n", lan1, lan2, toplan1, toplan2, cloud1, cloud2, cloud3, updated)
+  	data1 := fmt.Sprintf("%s\n\n%s\n%s\n%s\n\n%s\n\n%s\n\n%s\n\n%s\n\n%s\n", social, title, hello, points, quote, spotify1, spotify2, lan1, lan2)
+    data2 := fmt.Sprintf("%s\n\n%s\n\n%s\n\n%s\n\n%s\n\n%s\n\n%s\n", toplan1, toplan2, toplan3, cloud1, cloud2, cloud3, updated)
 
     data := data1 + data2
 
