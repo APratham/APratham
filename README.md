@@ -21,12 +21,13 @@
 
 
 
-- ⚡ Fun fact: Terence Howard was paid more than RDJ for his role in Iron Man
+- ⚡ Fun fact: Thor is the richest Marvel superhero
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
 
 <a href="https://spotify-now-playing-iota-umber.vercel.app/now-playing?open"><img src="https://spotify-now-playing-iota-umber.vercel.app/now-playing" width="256" height="64" alt="Now Playing"></a>
+
 ## Languages and Tools
 
 <p align="center">
@@ -48,10 +49,11 @@
         <code><img height="40" src="./images/yarn.svg"></code>
       </div>
     </p>
-
 ## Some of my top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APratham&&exclude_repo=now-playing-profile,natemoo-re&langs_count=3&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+*NOTE: Top languages does not indicate my skill level in those languages. However, it does represent the languages for which I have written the most code. It is a feature of GitHub README from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 ## Cloud Platforms
 
