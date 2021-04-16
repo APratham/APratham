@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Marvel Comics Dr. Doom inspired the character of Darth Vader
+- ⚡ Fun fact: Marvel did not believe that Mark Ruffalo would be right for the role of Bruce Banner
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 15 Apr 2021.</sub>
+<sub>Last updated by magic on 16 Apr 2021.</sub>
