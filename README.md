@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Marvel once created a deaf superhero to help a child understand why hearing aids are important
+- ⚡ Fun fact: T’Challa almost had a different superhero name
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 26 Apr 2021.</sub>
+<sub>Last updated by magic on 27 Apr 2021.</sub>
