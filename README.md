@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Tom Holland discovered he was chosen for the role of Spider-Man through Instagram
+- ⚡ Fun fact: Earth 3409's Tony Stark was born female
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 12 May 2021.</sub>
+<sub>Last updated by magic on 13 May 2021.</sub>
