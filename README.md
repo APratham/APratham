@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Marvel was the first CBM to give an African American his own comic book
+- ⚡ Fun fact: RDJ was the one who recommended both Tom Holland and Marissa Tomei for thier roles
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 5 Jun 2021.</sub>
+<sub>Last updated by magic on 6 Jun 2021.</sub>
