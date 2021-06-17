@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Agent Coulson was not supposed to reappear past the first Iron Man film
+- ⚡ Fun fact: Baby Groot's dance in GOTG2 took 3 years for James Gunn to create
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 16 Jun 2021.</sub>
+<sub>Last updated by magic on 17 Jun 2021.</sub>
