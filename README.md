@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: The Phoenix force refers to a force of nature rather than a living entity
+- ⚡ Fun fact: The famous Shawarma scene was shot after the premiere for The Avengers
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 9 Oct 2021.</sub>
+<sub>Last updated by magic on 10 Oct 2021.</sub>
