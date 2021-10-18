@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Deadpool can speak several languages apart from English
+- ⚡ Fun fact: Apocalypse is the oldest mutant in the Marvel Universe
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 17 Oct 2021.</sub>
+<sub>Last updated by magic on 18 Oct 2021.</sub>
