@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Thor is the richest Marvel superhero
+- ⚡ Fun fact: Benedict Cumberbatch plays Dormammu in Doctor Strange
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 24 Oct 2021.</sub>
+<sub>Last updated by magic on 25 Oct 2021.</sub>
