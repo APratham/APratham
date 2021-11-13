@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Michael Jackson once tried to buy Marvel Comics 
+- ⚡ Fun fact: Mr. Immortal has no other powers other than Immortality
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 12 Nov 2021.</sub>
+<sub>Last updated by magic on 13 Nov 2021.</sub>
