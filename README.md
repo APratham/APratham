@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Dr. Doom briefly played the role of Iron Man
+- ⚡ Fun fact: Stan Lee took inspiration for the creation of Galactus and the Silver Surfer from the Bible
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 25 Nov 2021.</sub>
+<sub>Last updated by magic on 26 Nov 2021.</sub>
