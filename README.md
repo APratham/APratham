@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: George R.R Martin was an avid fan of the Marvel comics
+- ⚡ Fun fact: Earth 3409's Tony Stark was born female
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 5 Jan 2022.</sub>
+<sub>Last updated by magic on 6 Jan 2022.</sub>
