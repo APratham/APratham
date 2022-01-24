@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Benedict Cumberbatch plays Dormammu in Doctor Strange
+- ⚡ Fun fact: Mr. Immortal has no other powers other than Immortality
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 23 Jan 2022.</sub>
+<sub>Last updated by magic on 24 Jan 2022.</sub>
