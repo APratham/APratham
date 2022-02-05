@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: The most powerful being in Marvel universe is The One Above All
+- ⚡ Fun fact: Thor is the richest Marvel superhero
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 4 Feb 2022.</sub>
+<sub>Last updated by magic on 5 Feb 2022.</sub>
