@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Tom Holland discovered he was chosen for the role of Spider-Man through Instagram
+- ⚡ Fun fact: The people of Wakanda speak a real language, Xhosa
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 24 Feb 2022.</sub>
+<sub>Last updated by magic on 25 Feb 2022.</sub>
