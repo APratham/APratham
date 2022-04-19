@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Steve Rogers list in TWS keeps changing depending upon the country you are watching in
+- ⚡ Fun fact: The Marvel Universe has a maintenance unit, Damage Control run by Tony Stark
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 18 Apr 2022.</sub>
+<sub>Last updated by magic on 19 Apr 2022.</sub>
