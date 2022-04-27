@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Marvel almost bought DC in 1984
+- ⚡ Fun fact: Apocalypse is the oldest mutant in the Marvel Universe
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 26 Apr 2022.</sub>
+<sub>Last updated by magic on 27 Apr 2022.</sub>
