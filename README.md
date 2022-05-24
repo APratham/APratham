@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Elvis Presley took inspiration for his hairstyle from a Marvel character
+- ⚡ Fun fact: Marvel Comics Dr. Doom inspired the character of Darth Vader
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 23 May 2022.</sub>
+<sub>Last updated by magic on 24 May 2022.</sub>
