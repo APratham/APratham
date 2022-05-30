@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: The famous Shawarma scene was shot after the premiere for The Avengers
+- ⚡ Fun fact: Marvel did not believe that Mark Ruffalo would be right for the role of Bruce Banner
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 29 May 2022.</sub>
+<sub>Last updated by magic on 30 May 2022.</sub>
