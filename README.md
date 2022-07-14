@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Elvis Presley took inspiration for his hairstyle from a Marvel character
+- ⚡ Fun fact: Marvel Comics spent 10 years convincing the U.S. government about the X-Men
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 13 Jul 2022.</sub>
+<sub>Last updated by magic on 14 Jul 2022.</sub>
