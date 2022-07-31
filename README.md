@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: George R.R Martin was an avid fan of the Marvel comics
+- ⚡ Fun fact: T’Challa almost had a different superhero name
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 30 Jul 2022.</sub>
+<sub>Last updated by magic on 31 Jul 2022.</sub>
