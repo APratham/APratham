@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Marvel and DC Comics once joined hands to create some exciting characters
+- ⚡ Fun fact: Marvel once created a deaf superhero to help a child understand why hearing aids are important
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 4 Aug 2022.</sub>
+<sub>Last updated by magic on 5 Aug 2022.</sub>
