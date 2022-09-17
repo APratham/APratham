@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: RDJ was the one who recommended both Tom Holland and Marissa Tomei for thier roles
+- ⚡ Fun fact: Venom was created by a Marvel fan
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 16 Sep 2022.</sub>
+<sub>Last updated by magic on 17 Sep 2022.</sub>
