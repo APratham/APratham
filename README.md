@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Marvel almost bought DC in 1984
+- ⚡ Fun fact: Mr. Immortal has no other powers other than Immortality
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 21 Sep 2022.</sub>
+<sub>Last updated by magic on 22 Sep 2022.</sub>
