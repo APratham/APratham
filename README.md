@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: The people of Wakanda speak a real language, Xhosa
+- ⚡ Fun fact: Marvel also once used to produce romance comics
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 26 Oct 2022.</sub>
+<sub>Last updated by magic on 27 Oct 2022.</sub>
