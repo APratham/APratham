@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Santa Claus is registered as the most powerful mutant in the Marvel Universe
+- ⚡ Fun fact: Jeremy Renner trained with Olympic archers to prepare for the role of Hawkeye
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 6 Dec 2022.</sub>
+<sub>Last updated by magic on 7 Dec 2022.</sub>
