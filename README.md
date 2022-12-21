@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Jeremy Renner trained with Olympic archers to prepare for the role of Hawkeye
+- ⚡ Fun fact: Terence Howard was paid more than RDJ for his role in Iron Man
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 20 Dec 2022.</sub>
+<sub>Last updated by magic on 21 Dec 2022.</sub>
