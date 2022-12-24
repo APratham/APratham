@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Marvel Comics Dr. Doom inspired the character of Darth Vader
+- ⚡ Fun fact: The Punisher is one of Marvel’s most popular anti-heroes
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 23 Dec 2022.</sub>
+<sub>Last updated by magic on 24 Dec 2022.</sub>
