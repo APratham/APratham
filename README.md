@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Baby Groot's dance in GOTG2 took 3 years for James Gunn to create
+- ⚡ Fun fact: Jeremy Renner trained with Olympic archers to prepare for the role of Hawkeye
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 28 Dec 2022.</sub>
+<sub>Last updated by magic on 29 Dec 2022.</sub>
