@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Tom Holland discovered he was chosen for the role of Spider-Man through Instagram
+- ⚡ Fun fact: Marvel considered the X-Men series a second-tier title
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 25 Jan 2023.</sub>
+<sub>Last updated by magic on 26 Jan 2023.</sub>
