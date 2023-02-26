@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: The Mjolnir can destroy entire galaxies
+- ⚡ Fun fact: In the Marvel comics, Drax was a normal human being
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 25 Feb 2023.</sub>
+<sub>Last updated by magic on 26 Feb 2023.</sub>
