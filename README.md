@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Jeremy Renner trained with Olympic archers to prepare for the role of Hawkeye
+- ⚡ Fun fact: Dr. Doom has diplomatic immunity in America
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 27 Feb 2023.</sub>
+<sub>Last updated by magic on 28 Feb 2023.</sub>
