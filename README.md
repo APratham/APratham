@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Mr. Immortal has no other powers other than Immortality
+- ⚡ Fun fact: Robert Downey Jr. was nearly rejected for the role of Iron Man
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 7 Apr 2023.</sub>
+<sub>Last updated by magic on 8 Apr 2023.</sub>
