@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: Marvel did not believe that Mark Ruffalo would be right for the role of Bruce Banner
+- ⚡ Fun fact: Steve Rogers list in TWS keeps changing depending upon the country you are watching in
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 17 Apr 2023.</sub>
+<sub>Last updated by magic on 18 Apr 2023.</sub>
