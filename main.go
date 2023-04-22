@@ -44,7 +44,7 @@ func makeReadme(filename string) error {
       / _  \   / __ \________/_   _// /_  ____/ /.-..-.
      / __  /  / ____/ __/ _ / /  /_/ __ \/ _ / .-. /, /
     /_/ /_/../_/   /_/ /___/_/____/_/ /_/___/_/  // //
-
+    \n\n[![An image of @apratham3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/apratham3)](https://holopin.io/@apratham3)
     `
 
     points := "## About me\n- 🔭 Currently working on Cloud Certifications\n- 🌱 Learning AWS\n- 👯 I'm looking to collaborate on amazing projects as long as they are based on cloud computing\n- 💬 Reach out to me: https://github.com/APratham/APratham/discussions/1\n- 📫 antariksh.pratham@pccoepune.org\n- 😄 Pronouns: He/Him\n"
