@@ -9,8 +9,12 @@
       / _  \   / __ \________/_   _// /_  ____/ /.-..-.
      / __  /  / ____/ __/ _ / /  /_/ __ \/ _ / .-. /, /
     /_/ /_/../_/   /_/ /___/_/____/_/ /_/___/_/  // //
-    \n\n[![An image of @apratham3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/apratham3)](https://holopin.io/@apratham3)
+
     
+
+
+[![An image of @apratham3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/apratham3)](https://holopin.io/@apratham3)
+
 ## About me
 - 🔭 Currently working on Cloud Certifications
 - 🌱 Learning AWS
@@ -21,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: Loki appeared in the Marvel Comics 13 years before Thor made his debut
+- ⚡ Fun fact: There is a frog with the same powers as Thor
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
