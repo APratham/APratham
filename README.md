@@ -9,7 +9,7 @@
       / _  \   / __ \________/_   _// /_  ____/ /.-..-.
      / __  /  / ____/ __/ _ / /  /_/ __ \/ _ / .-. /, /
     /_/ /_/../_/   /_/ /___/_/____/_/ /_/___/_/  // //
-
+    \n\n[![An image of @apratham3's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/apratham3)](https://holopin.io/@apratham3)
     
 ## About me
 - 🔭 Currently working on Cloud Certifications
@@ -21,7 +21,7 @@
 
 
 
-- ⚡ Fun fact: The Marvel Universe has a maintenance unit, Damage Control run by Tony Stark
+- ⚡ Fun fact: Loki appeared in the Marvel Comics 13 years before Thor made his debut
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -59,4 +59,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 21 Apr 2023.</sub>
+<sub>Last updated by magic on 22 Apr 2023.</sub>
