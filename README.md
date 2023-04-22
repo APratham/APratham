@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: There is a frog with the same powers as Thor
+- ⚡ Fun fact: Thor is the richest Marvel superhero
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
