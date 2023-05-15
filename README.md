@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: Tony Stark owns Area 51
+- ⚡ Fun fact: Marvel Comics Dr. Doom inspired the character of Darth Vader
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 14 May 2023.</sub>
+<sub>Last updated by magic on 15 May 2023.</sub>
