@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: Apocalypse is the oldest mutant in the Marvel Universe
+- ⚡ Fun fact: Venom was created by a Marvel fan
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 15 Aug 2023.</sub>
+<sub>Last updated by magic on 16 Aug 2023.</sub>
