@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: Marvel and DC Comics once joined hands to create some exciting characters
+- ⚡ Fun fact: Baby Groot's dance in GOTG2 took 3 years for James Gunn to create
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 28 Oct 2023.</sub>
+<sub>Last updated by magic on 29 Oct 2023.</sub>
