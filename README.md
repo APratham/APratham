@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: Marvel also once used to produce romance comics
+- ⚡ Fun fact: Michael Jackson once tried to buy Marvel Comics 
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 30 Oct 2023.</sub>
+<sub>Last updated by magic on 31 Oct 2023.</sub>
