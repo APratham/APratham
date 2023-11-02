@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: The Punisher once killed every Marvel superhero and villain including himself
+- ⚡ Fun fact: Loki appeared in the Marvel Comics 13 years before Thor made his debut
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 1 Nov 2023.</sub>
+<sub>Last updated by magic on 2 Nov 2023.</sub>
