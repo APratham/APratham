@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: Earth 3409's Tony Stark was born female
+- ⚡ Fun fact: Agent Coulson was not supposed to reappear past the first Iron Man film
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 6 Nov 2023.</sub>
+<sub>Last updated by magic on 7 Nov 2023.</sub>
