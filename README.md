@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: The Marvel Universe has a maintenance unit, Damage Control run by Tony Stark
+- ⚡ Fun fact: The Phoenix force refers to a force of nature rather than a living entity
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 9 Nov 2023.</sub>
+<sub>Last updated by magic on 10 Nov 2023.</sub>
