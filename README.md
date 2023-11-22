@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: There is a frog with the same powers as Thor
+- ⚡ Fun fact: Marvel almost bought DC in 1984
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 21 Nov 2023.</sub>
+<sub>Last updated by magic on 22 Nov 2023.</sub>
