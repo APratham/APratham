@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: Marvel almost bought DC in 1984
+- ⚡ Fun fact: Terence Howard was paid more than RDJ for his role in Iron Man
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 5 Dec 2023.</sub>
+<sub>Last updated by magic on 6 Dec 2023.</sub>
