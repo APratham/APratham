@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: Marvel also once used to produce romance comics
+- ⚡ Fun fact: The famous Shawarma scene was shot after the premiere for The Avengers
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 19 Dec 2023.</sub>
+<sub>Last updated by magic on 20 Dec 2023.</sub>
