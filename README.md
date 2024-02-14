@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: The most powerful being in Marvel universe is The One Above All
+- ⚡ Fun fact: The first Marvel comic was released in 1939
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 13 Feb 2024.</sub>
+<sub>Last updated by magic on 14 Feb 2024.</sub>
