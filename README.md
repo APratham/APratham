@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: Steve Rogers list in TWS keeps changing depending upon the country you are watching in
+- ⚡ Fun fact: Mr. Immortal has no other powers other than Immortality
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 5 Mar 2024.</sub>
+<sub>Last updated by magic on 6 Mar 2024.</sub>
