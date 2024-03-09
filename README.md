@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: The most powerful being in Marvel universe is The One Above All
+- ⚡ Fun fact: The Punisher is one of Marvel’s most popular anti-heroes
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 8 Mar 2024.</sub>
+<sub>Last updated by magic on 9 Mar 2024.</sub>
