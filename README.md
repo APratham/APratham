@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: T’Challa almost had a different superhero name
+- ⚡ Fun fact: Robert Downey Jr. was nearly rejected for the role of Iron Man
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 13 Apr 2024.</sub>
+<sub>Last updated by magic on 14 Apr 2024.</sub>
