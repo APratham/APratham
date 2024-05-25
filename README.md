@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: The military didn't appear in 'The Avengers' because The Pentagon didn't like SHIELD
+- ⚡ Fun fact: The Phoenix force refers to a force of nature rather than a living entity
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 24 May 2024.</sub>
+<sub>Last updated by magic on 25 May 2024.</sub>
