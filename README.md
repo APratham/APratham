@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: Quicksilver challenged The Flash to a race (and lost)
+- ⚡ Fun fact: Michael Jackson once tried to buy Marvel Comics 
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 9 Aug 2024.</sub>
+<sub>Last updated by magic on 10 Aug 2024.</sub>
