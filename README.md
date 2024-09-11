@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: The Mjolnir can destroy entire galaxies
+- ⚡ Fun fact: Elvis Presley took inspiration for his hairstyle from a Marvel character
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 10 Sep 2024.</sub>
+<sub>Last updated by magic on 11 Sep 2024.</sub>
