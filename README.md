@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: Marvel and DC Comics once joined hands to create some exciting characters
+- ⚡ Fun fact: Jeremy Renner trained with Olympic archers to prepare for the role of Hawkeye
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 12 Sep 2024.</sub>
+<sub>Last updated by magic on 13 Sep 2024.</sub>
