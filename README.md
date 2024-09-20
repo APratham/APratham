@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: George R.R Martin was an avid fan of the Marvel comics
+- ⚡ Fun fact: Marvel and DC Comics once joined hands to create some exciting characters
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 19 Sep 2024.</sub>
+<sub>Last updated by magic on 20 Sep 2024.</sub>
