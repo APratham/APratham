@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: The famous Shawarma scene was shot after the premiere for The Avengers
+- ⚡ Fun fact: The Marvel Universe has a maintenance unit, Damage Control run by Tony Stark
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 20 Oct 2024.</sub>
+<sub>Last updated by magic on 21 Oct 2024.</sub>
