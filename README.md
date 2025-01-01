@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: Agent Coulson was not supposed to reappear past the first Iron Man film
+- ⚡ Fun fact: Apocalypse is the oldest mutant in the Marvel Universe
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 31 Dec 2024.</sub>
+<sub>Last updated by magic on 1 Jan 2025.</sub>
