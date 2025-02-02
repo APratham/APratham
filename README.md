@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: The military didn't appear in 'The Avengers' because The Pentagon didn't like SHIELD
+- ⚡ Fun fact: The events in the films of Thor, Iron Man 2, and the Incredible Hulk all occur within a week
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 1 Feb 2025.</sub>
+<sub>Last updated by magic on 2 Feb 2025.</sub>
