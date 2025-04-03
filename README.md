@@ -25,7 +25,7 @@
 
 
 
-- ⚡ Fun fact: Tom Holland discovered he was chosen for the role of Spider-Man through Instagram
+- ⚡ Fun fact: Dr. Doom has diplomatic immunity in America
 - 🛠️ Currently working on: https://github.com/vigneshshettyin/Flask-Generate-Certificate
 
 ## I'm currently jamming to
@@ -63,4 +63,4 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="200">
 
-<sub>Last updated by magic on 2 Apr 2025.</sub>
+<sub>Last updated by magic on 3 Apr 2025.</sub>
